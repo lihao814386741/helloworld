@@ -1,0 +1,19 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Test project",
+  "main": "src/index.js",
+  "dependencies": {
+    "@dydxprotocol/solo": "^0.13.2",
+    "@types/bn.js": "^4.11.5",
+    "@types/web3": "^1.0.19",
+    "typescript": "^3.3.3333"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "Hao Li",
+  "license": "ISC"
+}
